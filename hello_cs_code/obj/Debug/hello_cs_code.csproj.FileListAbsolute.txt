@@ -1,0 +1,10 @@
+C:\Users\noahd\source\repos\hello_cs_code\hello_cs_code\bin\Debug\hello_cs_code.exe.config
+C:\Users\noahd\source\repos\hello_cs_code\hello_cs_code\bin\Debug\hello_cs_code.exe
+C:\Users\noahd\source\repos\hello_cs_code\hello_cs_code\bin\Debug\hello_cs_code.pdb
+C:\Users\noahd\source\repos\hello_cs_code\hello_cs_code\obj\Debug\hello_cs_code.csprojAssemblyReference.cache
+C:\Users\noahd\source\repos\hello_cs_code\hello_cs_code\obj\Debug\hello_cs_code.Form1.resources
+C:\Users\noahd\source\repos\hello_cs_code\hello_cs_code\obj\Debug\hello_cs_code.Properties.Resources.resources
+C:\Users\noahd\source\repos\hello_cs_code\hello_cs_code\obj\Debug\hello_cs_code.csproj.GenerateResource.cache
+C:\Users\noahd\source\repos\hello_cs_code\hello_cs_code\obj\Debug\hello_cs_code.csproj.CoreCompileInputs.cache
+C:\Users\noahd\source\repos\hello_cs_code\hello_cs_code\obj\Debug\hello_cs_code.exe
+C:\Users\noahd\source\repos\hello_cs_code\hello_cs_code\obj\Debug\hello_cs_code.pdb
